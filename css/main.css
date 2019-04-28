@@ -1,0 +1,16 @@
+h1{
+background:black 
+}
+p{
+    background: salmon
+}
+.latha{
+background:yellow
+}
+h3{
+    background:darkorchid 
+}
+#friend{
+    color: blue
+}
+button[disabled]
